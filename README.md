@@ -61,7 +61,7 @@ The assistant will initialize and prompt you to speak. It will capture your voic
 
 ## Example
 
-```sh
+```txt
 - Virtual Assistant Initialized Successfully..!
 Assistant: Hello! How can I help you?
 - Listening...
