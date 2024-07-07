@@ -1,3 +1,4 @@
 pyaudio
 pyttsx3
+requests
 speech_recognition
