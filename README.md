@@ -1,6 +1,6 @@
-# Virtual Assistant
+# Voice Assistant
 
-This project is a simple virtual assistant that listens to voice input, generates a response using the Groq API, and speaks the response back to the user.
+This project is a simple voice assistant that listens to voice input, generates a response using the Groq API, and speaks the response back to the user.
 
 ## Features
 
@@ -21,8 +21,8 @@ This project is a simple virtual assistant that listens to voice input, generate
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/virtual-assistant.git
-    cd virtual-assistant
+    git clone https://github.com/reddyyateesh/voice-assistant.git
+    cd voice-assistant
     ```
 
 2. Install the dependencies:
